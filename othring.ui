@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>545</width>
+    <height>287</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Other Ingredients</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">color: rgb(0, 0, 255);
+font: 75 12pt &quot;MS Shell Dlg 2&quot;;</string>
+  </property>
+  <widget class="QWidget" name="centralwidget">
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>170</y>
+      <width>281</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Store Other Ingredients in Data base</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_4">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>50</y>
+      <width>51</width>
+      <height>33</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>100.0</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_4">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>50</y>
+      <width>311</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Fly Ash in Kgs per Cubicmt(0.0 to 200.0 )</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_5">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>90</y>
+      <width>51</width>
+      <height>33</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>16.0</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_6">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>130</y>
+      <width>51</width>
+      <height>33</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>180</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_6">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>90</y>
+      <width>361</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Super Plasticizer in Kgs per Cubicmt(0.0 to 32.2 )</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_7">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>130</y>
+      <width>291</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Age in days( 1 to 365)</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_5">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>10</y>
+      <width>391</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Blast Furnace Slag in Kgs per Cubicmt(0.0 to 360.0 )</string>
+    </property>
+   </widget>
+   <widget class="QLineEdit" name="lineEdit_9">
+    <property name="geometry">
+     <rect>
+      <x>480</x>
+      <y>10</y>
+      <width>51</width>
+      <height>33</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>180.0</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton_2">
+    <property name="geometry">
+     <rect>
+      <x>120</x>
+      <y>210</y>
+      <width>281</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Delete Other Ingredients in Data base</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QStatusBar" name="statusbar"/>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

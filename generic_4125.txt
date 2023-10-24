@@ -1,0 +1,30 @@
+.open concrete1
+
+CREATE TABLE mainingr
+(
+cement varchar(4),
+caggr varchar(6),
+faggr varchar(6),
+water varchar(4)
+);
+
+CREATE TABLE otheringr
+(
+slag varchar(6),
+ash varchar(6),
+plasti varchar(6),
+age varchar(4)
+);
+
+
+
+
+
+
+
+
+
+
+
+
+
